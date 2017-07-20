@@ -27,3 +27,6 @@ Quick start
    to create a poll (you'll need the Admin app enabled).
 
 5. Visit http://127.0.0.1:8000/polls/ to participate in the poll.
+
+
+Created via the [Django Tutorial for version 1.11](https://docs.djangoproject.com/en/1.11/intro/)
